@@ -1,3 +1,8 @@
+# Link to the Project
+
+-> You can view and explore my work on this project here. <br>
+https://codeguy0.github.io/Practice_WEB_DEV_EP1/
+
 # Practice_WEB_DEV_EP1
 
 In this project, I created a front-page clone of the portfolio website of Cynthia Ugwu,<br>
@@ -40,10 +45,12 @@ advanced animations and interactions using various JavaScript libraries.
 
 # Screenshots
 
-Here are some screenshots of the completed project:
+Here are some screenshots of the completed project: <br>
+![Screenshot (66)](https://github.com/user-attachments/assets/ba9715fe-6cac-4d8d-a0a7-1a15ba8420f3)
 
+![Screenshot (67)](https://github.com/user-attachments/assets/7da507ef-060e-4016-8057-5beafb6d4619)
 
-
+![Screenshot (68)](https://github.com/user-attachments/assets/8e20a1cb-2730-4dde-8c92-8d84256a6dce)
 
 
 # Features
@@ -54,20 +61,8 @@ Here are some screenshots of the completed project:
 
 -> Scroll-triggered animations for a dynamic user experience. <br>
 
-# Link to the Project
-
--> You can view and explore my work on this project here. <br>
-
 # Feedback
 
 I would love to hear your feedback and suggestions! Please feel free to review my <br>
 project and share your thoughts on areas of improvement.
-
-# How to Use This Repository
-
--> Clone the repository: <br>
-
-git clone https://github.com/your-username/Practice_WEB_DEV_EP1.git  <br>
-
--> Open the index.html file in your browser to view the project.
 
